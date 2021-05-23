@@ -1,0 +1,2 @@
+../blender-2.78c-linux-glibc219-x86_64/blender -noaudio -t 1 -P blender_hands_sacred.py -- '{"frame_nb": 10, "frame_start": 0, "results_root": "/home/donguk/make_db/results", "background_datasets": ["white"]}'
+#../blender-2.91.2-linux64/blender -noaudio -t 1 -P blender_hands_sacred.py -- '{"frame_nb": 10, "frame_start": 0, "results_root": "/home/donguk/make_db/results", "background_datasets": ["white"]}'
