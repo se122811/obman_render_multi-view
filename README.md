@@ -3,4 +3,4 @@
 - blender
 - mano_v1_2 폴더
 - assets 추가
--
+- make_obj.py 추가
